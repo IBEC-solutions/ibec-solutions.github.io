@@ -1,3 +1,5 @@
+####### ceci est un site fictif dans le cadre d un projet d école #######
+
 # IBEC Solutions — Site web officiel
 
 > **La solution IBECable** — ESN bordelaise spécialisée en Informatique, Bureautique, Expertise & Conseil
